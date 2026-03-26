@@ -10,3 +10,6 @@ screenshot.js
 .DS_Store
 models/*.zip
 *.png
+# Accept screenshots folder though PNGs are generally ignored
+!screenshots/
+!screenshots/**
