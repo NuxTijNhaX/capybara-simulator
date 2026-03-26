@@ -1,0 +1,1 @@
+{"version":3,"file":"CaroPlayer.d.ts","sourceRoot":"","sources":["../../src/schemas/CaroPlayer.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAQ,MAAM,kBAAkB,CAAC;AAEhD,qBAAa,UAAW,SAAQ,MAAM;IAEpC,EAAE,EAAE,MAAM,CAAC;IAGX,IAAI,EAAE,MAAM,CAAC;IAGb,KAAK,EAAE,MAAM,CAAO;IAGpB,IAAI,EAAE,MAAM,CAAK;IAGjB,KAAK,EAAE,OAAO,CAAS;CACxB"}
